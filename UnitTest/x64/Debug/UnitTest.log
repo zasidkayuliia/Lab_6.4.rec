@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  UnitTest.cpp
+C:\Users\Dara\source\repos\Lab_6.4.rec\Lab_6.4.rec\Lab_6.4.rec.cpp(102,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "/UnitTest.cpp")
+  
+     Создается библиотека C:\Users\Dara\source\repos\Lab_6.4.rec\x64\Debug\UnitTest.lib и объект C:\Users\Dara\source\repos\Lab_6.4.rec\x64\Debug\UnitTest.exp
+  UnitTest.vcxproj -> C:\Users\Dara\source\repos\Lab_6.4.rec\x64\Debug\UnitTest.dll
